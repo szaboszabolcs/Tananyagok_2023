@@ -1,0 +1,7 @@
+Create React App telepítése:
+1) Új mappa (mappa nevében ne legyen nagy betű!)
+2) Terminálba -> npx create-react-app .
+3) (Opcionális) npm install --save bootstrap
+4) npm i --save react-router-dom
+5) npm install axios
+6) npm start
