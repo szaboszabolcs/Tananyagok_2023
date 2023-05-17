@@ -1,0 +1,12 @@
+Scaffold-DbContext "server=localhost;database=???????;user=root;password=;ssl mode=none;" mysql.entityframeworkcore -outputdir Models -f
+
+- ????? jelek helyére az adatbázis neve
+
+
+.NET 6.0 HASZNÁLATA ESETÉN
+
+    builder.Services.AddControllers(options => options.SuppressImplicitRequiredAttributeForNonNullableRefe renceTypes = true);
+
+    a) services.AddCors(c => { c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHead er()); }); 
+
+    b) app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHead er()); 
