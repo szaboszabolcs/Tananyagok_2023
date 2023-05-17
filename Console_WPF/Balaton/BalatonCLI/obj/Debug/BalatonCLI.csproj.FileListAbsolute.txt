@@ -1,0 +1,9 @@
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\bin\Debug\utca.txt
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\bin\Debug\BalatonCLI.exe.config
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\bin\Debug\BalatonCLI.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\bin\Debug\BalatonCLI.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\obj\Debug\BalatonCLI.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\obj\Debug\BalatonCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\obj\Debug\BalatonCLI.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\obj\Debug\BalatonCLI.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\BalatonCLI\obj\Debug\BalatonCLI.pdb
