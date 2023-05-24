@@ -1,0 +1,9 @@
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\bin\Debug\SuperBowl.txt
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\bin\Debug\SuperBowlConsole.exe.config
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\bin\Debug\SuperBowlConsole.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\bin\Debug\SuperBowlConsole.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\obj\Debug\SuperBowlConsole.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\obj\Debug\SuperBowlConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\obj\Debug\SuperBowlConsole.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\obj\Debug\SuperBowlConsole.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlConsole\obj\Debug\SuperBowlConsole.pdb

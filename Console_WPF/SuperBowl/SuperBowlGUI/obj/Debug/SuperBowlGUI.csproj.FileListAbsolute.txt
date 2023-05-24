@@ -1,0 +1,16 @@
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\bin\Debug\SuperBowlGUI.exe.config
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\bin\Debug\SuperBowlGUI.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\bin\Debug\SuperBowlGUI.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\MainWindow.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\App.g.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI_MarkupCompile.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI_MarkupCompile.lref
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\MainWindow.baml
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.g.resources
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.Properties.Resources.resources
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.csproj.GenerateResource.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\SuperBowl\SuperBowlGUI\obj\Debug\SuperBowlGUI.pdb

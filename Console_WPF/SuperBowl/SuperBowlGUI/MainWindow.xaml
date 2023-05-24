@@ -1,0 +1,18 @@
+﻿<Window x:Class="SuperBowlGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperBowlGUI"
+        mc:Ignorable="d"
+        Title="Átváltó" Height="150" Width="350">
+    <Grid>
+        <Label Name="lbl_RomaiSzam" Content="Római szám [I-X]:" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Width="101"/>
+        <TextBox x:Name="txb_RomaiSzam" HorizontalAlignment="Left" Margin="48,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" MaxLength="4" Width="50"/>
+        <Button x:Name="btn_Irany" Content="--->" HorizontalAlignment="Left" Margin="161,16,0,0" VerticalAlignment="Top" Width="33" Click="btn_Irany_Click"/>
+        <Label Name="lbl_ArabSzam" Content="Arab szám [1-10]:" HorizontalAlignment="Left" Margin="221,10,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="txb_ArabSzam" HorizontalAlignment="Left" Margin="247,36,0,0" TextWrapping="Wrap" IsEnabled="False" VerticalAlignment="Top" MaxLength="2" Width="50"/>
+        <Button x:Name="btn_Atvalt" Content="Átvált" HorizontalAlignment="Left" Margin="158,59,0,0" VerticalAlignment="Top" Width="38" Click="btn_Atvalt_Click"/>
+
+    </Grid>
+</Window>
