@@ -1,0 +1,9 @@
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\bin\Debug\helsinki.txt
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\bin\Debug\Helsinki_1952.exe.config
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\bin\Debug\Helsinki_1952.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\bin\Debug\Helsinki_1952.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\obj\Debug\Helsinki_1952.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\obj\Debug\Helsinki_1952.csproj.SuggestedBindingRedirects.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\obj\Debug\Helsinki_1952.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\obj\Debug\Helsinki_1952.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgafeladatok_Gyakorlás\Console+WPF\HelsinkiConsole\Helsinki_1952\obj\Debug\Helsinki_1952.pdb
